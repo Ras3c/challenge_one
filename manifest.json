@@ -1,0 +1,31 @@
+{
+  "short_name": "Flexi Clientes",
+  "name": "Flexi Clientes",
+  "start_url": "index.php",
+  "icons": [
+    {
+    "src": "images/box_64.png",
+    "type": "images/box_64.png",
+    "sizes": "64x64"
+    },
+    {
+    "src": "images/box_128.png",
+    "type": "images/box_128.png",
+    "sizes": "128x128"
+    },
+    {
+    "src": "images/box_256.png",
+    "type": "images/box_256.png",
+    "sizes": "256x256"
+    },
+    {
+    "src": "images/box_512.png",
+    "type": "images/box_512.png",
+    "sizes": "512x512"
+    }
+  ],
+  "background_color": "#cc0000",
+  "theme_color": "#cc0000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
